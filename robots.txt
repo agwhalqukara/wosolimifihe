@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wosolimifihe.pages.dev/sitemap.xml
